@@ -1,6 +1,6 @@
 package com.unab.vistas;
 
-import com.uanb.dao.ContactosDAO;
+import com.unab.dao.ContactosDAO;
 import com.unab.entidades.ContactoPersonas;
 import java.util.ArrayList;
 import javax.swing.*;
